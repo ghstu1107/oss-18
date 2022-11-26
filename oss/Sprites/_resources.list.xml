@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="캐릭터" type="GROUP"/>
+  <resource name="플랫폼" type="GROUP"/>
+  <resource name="함정" type="GROUP"/>
+  <resource name="기타" type="GROUP"/>
+</resources>
