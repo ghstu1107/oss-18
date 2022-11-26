@@ -5,4 +5,11 @@
   <resource name="city_brick" type="RESOURCE"/>
   <resource name="grass" type="RESOURCE"/>
   <resource name="ghost_brick" type="RESOURCE"/>
+  <resource name="inv_block" type="RESOURCE"/>
+  <resource name="grass_block" type="RESOURCE"/>
+  <resource name="obj_folder" type="RESOURCE"/>
+  <resource name="obj_text" type="RESOURCE"/>
+  <resource name="obj_menu" type="RESOURCE"/>
+  <resource name="obj_lol" type="RESOURCE"/>
+  <resource name="obj_kw_final" type="RESOURCE"/>
 </resources>
