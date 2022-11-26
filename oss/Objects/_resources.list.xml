@@ -18,11 +18,6 @@
   <resource name="spike_thrown_down" type="RESOURCE"/>
   <resource name="thrown_down2" type="RESOURCE"/>
   <resource name="spike_thrown_right" type="RESOURCE"/>
-  <resource name="tr_trash_start" type="RESOURCE"/>
-  <resource name="tr_trash_end" type="RESOURCE"/>
-  <resource name="tr_right" type="RESOURCE"/>
-  <resource name="tr_ez_ult_left" type="RESOURCE"/>
-  <resource name="tr_ez_ult_up" type="RESOURCE"/>
   <resource name="trigger" type="GROUP"/>
   <resource name="game_over" type="GROUP"/>
 </resources>
