@@ -44,7 +44,7 @@
       <appliesTo>.self</appliesTo>
       <arguments>
         <argument kind="EXPRESSION">270</argument>
-        <argument kind="EXPRESSION">0.5</argument>
+        <argument kind="EXPRESSION">0.3</argument>
       </arguments>
     </action>
     <action id="424" library="1">
