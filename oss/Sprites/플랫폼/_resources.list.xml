@@ -3,9 +3,4 @@
   <resource name="grass" type="RESOURCE"/>
   <resource name="city_brick" type="RESOURCE"/>
   <resource name="ghost_brick" type="RESOURCE"/>
-  <resource name="grass_block" type="RESOURCE"/>
-  <resource name="sp_floder" type="RESOURCE"/>
-  <resource name="sp_text" type="RESOURCE"/>
-  <resource name="sp_menu" type="RESOURCE"/>
-  <resource name="sp_lol" type="RESOURCE"/>
 </resources>

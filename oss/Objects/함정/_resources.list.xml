@@ -8,6 +8,4 @@
   <resource name="right" type="RESOURCE"/>
   <resource name="up" type="RESOURCE"/>
   <resource name="left" type="RESOURCE"/>
-  <resource name="3-1" type="GROUP"/>
-  <resource name="3-2" type="GROUP"/>
 </resources>
