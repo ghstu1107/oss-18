@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="spike" type="RESOURCE"/>
+  <resource name="left" type="RESOURCE"/>
+  <resource name="up" type="RESOURCE"/>
+  <resource name="right" type="RESOURCE"/>
+  <resource name="bottle" type="RESOURCE"/>
+</resources>
